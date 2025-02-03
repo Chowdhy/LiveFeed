@@ -1,4 +1,4 @@
-# Livefeed
+# LiveFeed
 ## Running the Application Locally
 ### Backend
 1. Enter the `Backend` directory:
